@@ -1,0 +1,25 @@
+@media screen and (max-width: 1260px) {
+    .our-designer {
+        margin: 100px 0 0 0;
+    }
+    
+}
+
+@media screen and (min-width: 875px) {
+    .footer-container {
+        margin: 100px 0;
+    }
+}
+
+@media screen and (max-width: 865px) {
+    .navbar-menu {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
+    .footer-container {
+        display: block;
+    }
+}
+
