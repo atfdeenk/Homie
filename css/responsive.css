@@ -22,11 +22,13 @@
         font-size: 5vw;
     }
     .header-text {
-        font-size: 3vw;
+        font-size: 4vw;
     }
-    .header-btn {
-        width: max-content;
-        height: max-content;
+    .dropdown-toggle {
+        font-size: 6vw;
+    }
+    .header-text .header-btn {
+        min-width: none;
     }
     .navbar-menu {
         display: none;
@@ -36,6 +38,10 @@
     }
     .footer-container {
         display: block;
+    }
+    .footer-item {
+        font-size: 3vw;
+        line-height: 5vw;
     }
 }
 
