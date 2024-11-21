@@ -5,13 +5,29 @@
     
 }
 
+@media screen and (max-width: 1035px) {
+    .header-text span {
+        display: inline;
+    }
+}
+
 @media screen and (min-width: 875px) {
     .footer-container {
         margin: 100px 0;
     }
 }
 
-@media screen and (max-width: 865px) {
+@media screen and (max-width: 940px) {
+    .logo {
+        font-size: 5vw;
+    }
+    .header-text {
+        font-size: 3vw;
+    }
+    .header-btn {
+        width: max-content;
+        height: max-content;
+    }
     .navbar-menu {
         display: none;
     }
