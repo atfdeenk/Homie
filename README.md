@@ -4,7 +4,7 @@
 
 <h1 align="left">ola..! <img src="https://raw.githubusercontent.com/muhammad-avicena/profile/master/wave.gif" width="30px" height="30px" /> </h1>
 
-ola, I'm Athifuddin Khoir. I am delighted to present my project milestone 1. a simple and neat designed company profile. I intend to bring up functioinality in the most simple way possible. Hop on to check my work : homie-furniture.netlify.app
+ola, I'm Athifuddin Khoir. I am delighted to present my project milestone 1. a simple and neat designed company profile. I intend to bring up functioinality in the most simple way possible. Hop on to check my work : [homie-furniture](https://homie-furniture.netlify.app) or [this link](https://www.djoeskode.site).
 
 Interested to have collaboration ? Find me on:
 
@@ -76,7 +76,7 @@ git push origin main
 
 ## DEPLOYMENT ⚙️
 
-The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://homie-furniture.netlify.app](https://djoeskode.site) or [this link](https://www.djoeskode.site).
+The project has been successfully deployed using Netlify. You can access the production version of the website by following this link: [https://homie-furniture.netlify.app](https://homie-furniture.netlify.app) or [this link](https://www.djoeskode.site).
 
 ### Deployment status :
 
