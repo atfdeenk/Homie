@@ -125,6 +125,17 @@ Final step, go to dashboard Niagahoster -> Domain -> Domain Portfolio -> Choose 
 
 You should wait within 1x24 hours to let the NiagaHoster and Netlify setting up the DNS, it could be faster or slower depending on the provider internet that you're using.
 
+
+## Development Steps
+
+1. Main content of the website using HTML only.
+
+![HTML Only](/assets/dev-step/html-only.png)
+
+2. After applying the css and javascript, then voila.. simple looks with functionality.
+
+![HTML-CSS-JS](/assets/dev-step/html-css-js.png)
+
 Feel free to explore the website and try out the different features. I appreciate any feedback and suggestions to further improve the user experience.
 
 Happy browsing!
