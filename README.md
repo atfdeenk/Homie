@@ -26,9 +26,9 @@ Interested to have collaboration ? Find me on:
 
 ## INGREDIENTS I USE 📜
 
-- HTML <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="20" height="20"/>&nbsp;
-- CSS <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" title="css3" alt="css3" width="20" height="20"/>&nbsp;
-- JavaScript<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="20" height="20"/>&nbsp;
+- HTML <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/html5/html5-original.svg" title="Html5" alt="Html5" width="10" height="10"/>&nbsp;
+- CSS <img src="https://cdn.jsdelivr.net/npm/devicon-2.2@2.2.0/icons/css3/css3-original.svg" title="css3" alt="css3" width="10" height="10"/>&nbsp;
+- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="10" height="10"/>&nbsp;
 - External/Internal Source
   - Icon
   - Image
