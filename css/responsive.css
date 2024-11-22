@@ -36,6 +36,9 @@
     .hamburger {
         display: block;
     }
+    .designer-container {
+        margin: auto auto;
+    }
     .footer-container {
         display: block;
     }
